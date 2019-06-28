@@ -2,7 +2,7 @@
 a shooter
 
 
-#movements
+# movements
 w - jump
 a - left
 d - right
